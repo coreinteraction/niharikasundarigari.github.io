@@ -9,14 +9,13 @@ h1 {
 	font-family: chinese-rocks, sans-serif;
 	font-weight: 400;
     font-style: normal;
-    font size: 60px;
     text-align: center;
 
 }
 
 .one {
 	background-color: crimson;
-	font-size: 45px;
+	font-size: 50px;
 }
 
 .two {
@@ -25,7 +24,7 @@ h1 {
 
 .three {
 	background-color: #f7f6ea;
-	font-size: 45px;
+	font-size: 50px;
 }
 
 .four {
@@ -34,7 +33,7 @@ h1 {
 
 .five {
 	background-color: #f3b63f;
-	font-size: 45px;
+	font-size: 50px;
 }
 
 .six {
@@ -43,7 +42,7 @@ h1 {
 
 .seven {
 	background-color: crimson;
-	font-size: 45px;
+	font-size: 50px;
 }
 
 .eight {
@@ -52,7 +51,7 @@ h1 {
 
 .nine {
 	background-color: #f7f6ea;
-	font-size: 45px;
+	font-size: 50px;
 }
 
 .ten {
@@ -61,9 +60,15 @@ h1 {
 
 .eleven {
 	background-color: #f3b63f;
-	font-size: 45px;
+	font-size: 50px;
 }
 
 .twelve {
 	background-color: #f7f6ea;
+}
+.emphasis {
+	font-size: 40px; 
+}
+.emphasis1 {
+	font-size: 60px;
 }
